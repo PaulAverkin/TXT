@@ -1,0 +1,5 @@
+Preffered skills:
+- QA theory;
+- basic QA automation;
+- Manual QA testing
+
