@@ -1,1 +1,7 @@
-
+ Bug report by Paul Averkin (test example):
+ 1. Priority: low;       
+ 2. Bug number: 1;
+ 3. Project name: Mobile app "3";
+ 4. Name of reporter: Paul Averkin;
+ 5. Description: Application does not start.
+ 
