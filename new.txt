@@ -1,1 +1,7 @@
-New
+My personal information:
+
+name: Paul Averkin
+age: 47
+number of pets: 0
+preferred salary: 5000
+
